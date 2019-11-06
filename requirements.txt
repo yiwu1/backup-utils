@@ -1,0 +1,6 @@
+# pytest reqs
+pytest
+pytest-django
+
+# code coverage
+pytest-cov
